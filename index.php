@@ -8,9 +8,10 @@
 <body>
   <?php
   
-  for ($i=0; $i <= 20; $i=$i+1) { 
+  for ($i=0; $i < 20; $i=$i+1) { 
       echo  $i . "<br>";
-      echo  $i*$i
+      echo  ",";
+      echo $i*$i;
   }
   ?>
 </body>
