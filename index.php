@@ -13,6 +13,7 @@
       echo  ",";
       echo $i*$i;
   }
+  
   ?>
 </body>
 </html>
