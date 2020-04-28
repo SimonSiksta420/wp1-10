@@ -10,10 +10,8 @@
   
   for ($i=0; $i <= 20; $i=$i+1) { 
       echo  $i . "<br>";
+      echo  $i*$i
   }
-for ($i=0; $i <= 20 ; $y=$i*$i) { 
-    echo $y . "<p>";
-}
   ?>
 </body>
 </html>
