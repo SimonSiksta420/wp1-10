@@ -16,5 +16,14 @@
   }
 
   ?>
+
+  <?php
+  
+  for ($i=10; $i > 0; $i=$i-1) { 
+      echo  $i;
+      echo "<br>";
+  } ?>
+  <br> Raketa letí </br>
+  
 </body>
 </html>
