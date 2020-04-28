@@ -24,6 +24,14 @@
       echo "<br>";
   } ?>
   <br> Raketa letí </br>
+  <?php
+  define('MAX_NUMBER', 100);
+  define('MIN_NUMBER', 0);
+  define('NUMBERS_COUNT', 10);
   
+  for ($i=0 ; $i < NUMBERS_COUNT; $i++ ) { 
+      echo rand(MIN_NUMBER, MAX_NUMBER) . ","
+  }
+  ?>
 </body>
 </html>
