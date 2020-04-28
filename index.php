@@ -12,7 +12,7 @@
       echo  $i . "<br>";
   }
 for ($i=0; $i <= 20 ; $y=$i*$i) { 
-    echo $y;
+    echo $y . "<p>";
 }
   ?>
 </body>
