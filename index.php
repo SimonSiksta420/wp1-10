@@ -6,9 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-
- <h2> Příklad číslo 2 </h2>
-
   <?php
   
   for ($i=0; $i < 20; $i=$i+1) { 
@@ -19,7 +16,6 @@
   }
 
   ?>
-  
  <br> <h1> Start Rakety </h1> </br>
   <?php
   
