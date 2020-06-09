@@ -30,7 +30,7 @@
   define('NUMBERS_COUNT', 10);
   
   for ($i=0 ; $i < NUMBERS_COUNT; $i++ ) { 
-      echo rand(MIN_NUMBER, MAX_NUMBER) . ","
+      echo rand(MIN_NUMBER, MAX_NUMBER) . ",";
   }
   ?>
 
