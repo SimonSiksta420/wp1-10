@@ -6,14 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-<h1> Příklad číslo 1 </h1>
 
-  <?php
-
-for ($i=0; $i < 10; $i++) { 
-    echo $i . ",";
-   }
-  ?>
+ <h2> Příklad číslo 2 </h2>
 
   <?php
   
@@ -25,6 +19,7 @@ for ($i=0; $i < 10; $i++) {
   }
 
   ?>
+  
  <br> <h1> Start Rakety </h1> </br>
   <?php
   
